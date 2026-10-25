@@ -6,9 +6,11 @@
 
 ## ⬇️ 내려받기
 
-### **[웅캡처 1.1.0 내려받기 (zip, 35MB)](https://github.com/joese0211/woong-capture/raw/main/download/woong-capture-windows.zip)**
+### **[웅캡처 1.1.1 내려받기 (zip, 21MB)](https://github.com/joese0211/woong-capture/raw/main/download/woong-capture-windows.zip)**
 
-<sub>SHA256: `45DF7498F3FE399BDCAF0D7A93C51A0AA3BC4DC593794C965A49C191C5175B80`</sub>
+<sub>SHA256: `991780EF6937E95C93A334B336B5ADAAB3D008ABBEE2DA4B65266BB6E4F9E3F0`</sub>
+
+> **1.1.1 바뀐 점** — 내려받기 크기 35MB → 21MB, 설치 크기 91MB → 51MB 로 줄였어요. 쉬는 동안 메모리를 훨씬 적게 써요. 색 고르기 창도 한국어로 나와요.
 
 ## 설치하기
 
